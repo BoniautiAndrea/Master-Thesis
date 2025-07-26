@@ -1,0 +1,75 @@
+
+If holds: var3:0 var0:2
+Execute: goal / SC / d=0
+
+If holds: var1:0 var0:3
+Execute: right_engine x_-2 x_-1 x_0 vx_0 vx_1 / SC / d=1
+
+If holds: var2:0 var0:3
+Execute: idle x_-2 x_-2 x_-1 vx_1 / SC / d=2
+
+If holds: var1:0 var0:2
+Execute: left_engine x_-2 x_-1 x_0 vx_0 vx_1 / SC / d=2
+
+If holds: var2:0 var0:2
+Execute: left_engine x_-2 x_-2 x_-1 vx_0 vx_1 / SC / d=3
+
+If holds: var3:0 var0:0
+Execute: left_engine x_-1 x_0 x_1 vx_-1 vx_0 / SC / d=3
+
+If holds: var2:0 var0:0
+Execute: left_engine x_-2 x_-2 x_-1 vx_-1 vx_0 / SC / d=4
+
+If holds: var4:0 var0:0
+Execute: idle x_0 x_1 x_2 vx_-1 / SC / d=4
+
+If holds: var1:0 var0:0
+Execute: left_engine x_-2 x_-1 x_0 vx_-1 vx_0 / SC / d=4
+
+If holds: var2:0 var0:1
+Execute: left_engine x_-2 x_-2 x_-1 vx_-2 vx_-1 / SC / d=5
+
+If holds: var4:0 var0:2
+Execute: right_engine x_0 x_1 x_2 vx_-1 vx_0 / SC / d=5
+
+If holds: var5:0 var0:0
+Execute: idle x_1 x_2 x_2 vx_-1 / SC / d=5
+
+If holds: var3:0 var0:3
+Execute: right_engine x_-1 x_0 x_1 vx_0 vx_1 / SC / d=6
+
+If holds: var5:0 var0:2
+Execute: right_engine x_1 x_2 x_2 vx_-1 vx_0 / SC / d=6
+
+If holds: var4:0 var0:3
+Execute: right_engine x_0 x_1 x_2 vx_0 vx_1 / SC / d=7
+
+If holds: var5:0 var0:3
+Execute: right_engine x_1 x_2 x_2 vx_0 vx_1 / SC / d=7
+
+If holds: var1:0 var0:4
+Execute: right_engine x_-2 x_-1 x_0 vx_1 vx_2 / SC / d=4
+
+If holds: var2:0 var0:4
+Execute: idle x_-2 x_-2 x_-1 vx_2 / SC / d=5
+
+If holds: var3:0 var0:4
+Execute: right_engine x_-1 x_0 x_1 vx_1 vx_2 / SC / d=5
+
+If holds: var4:0 var0:4
+Execute: right_engine x_0 x_1 x_2 vx_1 vx_2 / SC / d=5
+
+If holds: var5:0 var0:4
+Execute: right_engine x_1 x_2 x_2 vx_1 vx_2 / SC / d=5
+
+If holds: var1:0 var0:1
+Execute: left_engine x_-2 x_-1 x_0 vx_-2 vx_-1 / SC / d=5
+
+If holds: var3:0 var0:1
+Execute: left_engine x_-1 x_0 x_1 vx_-2 vx_-1 / SC / d=5
+
+If holds: var4:0 var0:1
+Execute: left_engine x_0 x_1 x_2 vx_-2 vx_-1 / SC / d=4
+
+If holds: var5:0 var0:1
+Execute: idle x_1 x_2 x_2 vx_-2 / SC / d=5

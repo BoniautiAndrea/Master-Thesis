@@ -1,0 +1,45 @@
+
+If holds: var2:0 var0:3
+Execute: goal / SC / d=0
+
+If holds: var3:0 var0:0
+Execute: main_engine y_0 y_1 y_2 vy_-1 vy_0 / SC / d=1
+
+If holds: var1:0 var0:4
+Execute: idle y_-1 y_-1 y_0 vy_0 vy_1 / SC / d=1
+
+If holds: var3:0 var0:3
+Execute: idle y_0 y_1 y_2 vy_-1 vy_0 / SC / d=2
+
+If holds: var1:0 var0:3
+Execute: main_engine y_-1 y_-1 y_0 vy_0 vy_1 / SC / d=2
+
+If holds: var4:0 var0:0
+Execute: main_engine y_1 y_2 y_3 vy_-1 vy_0 / SC / d=3
+
+If holds: var2:0 var0:0
+Execute: main_engine y_-1 y_0 y_1 vy_-1 vy_0 / SC / d=3
+
+If holds: var2:0 var0:4
+Execute: idle y_-1 y_0 y_1 vy_0 vy_1 / SC / d=3
+
+If holds: var1:0 var0:0
+Execute: main_engine y_-1 y_-1 y_0 vy_-1 vy_0 / SC / d=3
+
+If holds: var4:0 var0:3
+Execute: idle y_1 y_2 y_3 vy_-1 vy_0 / SC / d=4
+
+If holds: var5:0 var0:0
+Execute: main_engine y_2 y_3 y_3 vy_-1 vy_0 / SC / d=5
+
+If holds: var3:0 var0:4
+Execute: idle y_0 y_1 y_2 vy_0 vy_1 / SC / d=5
+
+If holds: var5:0 var0:3
+Execute: idle y_2 y_3 y_3 vy_-1 vy_0 / SC / d=6
+
+If holds: var5:0 var0:4
+Execute: idle y_2 y_3 y_3 vy_0 vy_1 / SC / d=7
+
+If holds: var4:0 var0:4
+Execute: idle y_1 y_2 y_3 vy_0 vy_1 / SC / d=7

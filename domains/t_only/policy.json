@@ -1,0 +1,227 @@
+[
+    {
+        "action": "goal",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": "0"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": "1"
+    },
+    {
+        "action": "idle",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-2",
+        "vt": "1"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": "0"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-2",
+        "vt": "0"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": "-1"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-2",
+        "vt": "-1"
+    },
+    {
+        "action": "idle",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": "-1"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": "-1"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-2",
+        "vt": "-2"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": "0"
+    },
+    {
+        "action": "idle",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": "-1"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": "1"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": "0"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": "1"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": "1"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": "2"
+    },
+    {
+        "action": "idle",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-2",
+        "vt": "2"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": "2"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": "2"
+    },
+    {
+        "action": "left_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": "2"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": "-2"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": "-2"
+    },
+    {
+        "action": "right_engine",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": "-2"
+    },
+    {
+        "action": "idle",
+        "x": null,
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": "-2"
+    }
+]

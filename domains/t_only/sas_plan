@@ -1,0 +1,5 @@
+(left_engine_DETDUP_0 t_1 t_2 t_2 vt_1 vt_2)
+(left_engine_DETDUP_0 t_1 t_2 t_2 vt_0 vt_1)
+(left_engine_DETDUP_0 t_1 t_2 t_2 vt_-1 vt_0)
+(idle_DETDUP_0 t_1 t_2 t_2 vt_-1)
+(right_engine_DETDUP_0 t_0 t_1 t_2 vt_-1 vt_0)
